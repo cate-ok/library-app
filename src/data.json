@@ -1,0 +1,92 @@
+[
+  {
+    "id": 17,
+    "title": "Beside Golden Irish Fields: The Unexpected Prince Charming Series, Book 1",
+    "author": "Ava Miles",
+    "bookCategory": "",
+    "image": "b107.jpg",
+    "description": "",
+    "count":  1,
+    "isAvailable": true
+  },
+  {
+    "id": 18,
+    "title": "Atonement",
+    "author": "Ian McEwan",
+    "bookCategory": "",
+    "image": "b108.jpg",
+    "description": "",
+    "count": 5,
+    "isAvailable": true
+  },
+  {
+    "id": 10,
+    "title": "Pride and Prejudice",
+    "author": "Jane Austen",
+    "bookCategory": "",
+    "image": "b100.jpg",
+    "description": "",
+    "count": 3,
+    "isAvailable": true
+  },
+  {
+    "id": 11,
+    "title": "Alice's Adventures in Wonderland and Through the Looking-Glass",
+    "author": "Lewis Carroll",
+    "bookCategory": "",
+    "image": "b101.jpg",
+    "description": "",
+    "count": 5,
+    "isAvailable": true
+  },
+  {
+    "id": 12,
+    "title": "The Strange Case of Dr. Jekyll and Mr. Hyde and Other Stories",
+    "author": "Robert Louis Stevenson",
+    "bookCategory": "",
+    "image": "b102.jpg",
+    "description": "Since his first literary appearance in 1886, the murderous Mr. Hyde has embodied the evil that even good men—including his alter ego, Henry Jekyll—are capable of when the constraints of civilized life are loosed. This chilling anthology also collects nine of Stevenson’s best-known tales of horror, including The Body-Snatcher 'Markheim', 'Thrawn Janet', 'The Bottle Imp', 'The Isle of Voices', 'The Waif Woman', 'Olalla', and 'Will o' the Mill.'",
+    "count": 2,
+    "isAvailable": false
+  },
+  {
+    "id": 13,
+    "title": "A Journey to the Center of the Earth",
+    "author": "Jules Verne",
+    "bookCategory": "",
+    "image": "b103.jpg",
+    "description": "Accompanied by his nephew Harry and his guide Hans, Professor Von Hardwigg follows directions in a coded message left by sixteenth-century alchemist Arne Saknussemm to the crater of the volcano Sneffels. There they descend into a subterranean world that is home to marvels from the prehistoric past that could never exist in the world above ground. One of his styled 'extraordinary voyages', Jules Verne's Journey to the Center of the Earth is a masterpiece of adventure that has never been out of print since it was first published in French in 1864. This edition of Verne's novel features more than 50 full-page illustrations by the distinguished artist Édouard Rio. Journey to the Center of the Earth is one of Barnes & Noble's Collectible Editions classics. Each volume features authoritative texts by the world's greatest authors in an exquisitely designed foil-stamped binding, with distinctive gilt edging and an attractive ribbon bookmark. Decorative, durable, and collectible, these books offer hours of pleasure to readers young and old and are an indispensable cornerstone for any home library.",
+    "count": 1,
+    "isAvailable": true
+  },
+  {
+    "id": 14,
+    "title": "Twenty Thousand Leagues Under the Sea",
+    "author": "Jules Verne",
+    "bookCategory": "",
+    "image": "b104.jpg",
+    "description": "",
+    "count": 1,
+    "isAvailable": true
+  },
+  {
+    "id": 15,
+    "title": "The Picture of Dorian Gray",
+    "author": "Oscar Wilde",
+    "bookCategory": "",
+    "image": "b105.jpg",
+    "description": "",
+    "count": 2,
+    "isAvailable": true
+  },
+  {
+    "id": 16,
+    "title": "An Ideal Husband",
+    "author": "Oscar Wilde",
+    "bookCategory": "",
+    "image": "b106.jpg",
+    "description": "",
+    "count": 1,
+    "isAvailable": false
+  }
+]

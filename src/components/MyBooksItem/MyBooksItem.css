@@ -1,0 +1,39 @@
+.my-books-item {
+    /*  background-color: #d9dfe2;*/
+    font-size: 11px;
+    padding: 5px;
+}
+
+.my-books-item .book-title {
+    font-weight: 600;
+}
+
+.my-books-item .img-icon {
+    height: 50px;
+}
+
+    .my-books-item .book-info {
+        display: inline-block;
+        width: 180px;
+        vertical-align: top;
+        padding-left: 8px;
+        text-overflow: ellipsis;
+    }
+
+    .my-books-item .delete-btn {
+        background-size: 70%;
+        background-repeat: no-repeat;
+        background-position: center;
+        border-radius: 3px;
+        border: 1px solid #939191;
+        background-image: url('../../images/delete.png');
+        height: 30px;
+        width: 30px;
+    }
+
+    .my-books-item .book-count-info {
+        display: inline-block;
+        width: 10px;
+        padding-left: 8px;
+        color: green;
+    }

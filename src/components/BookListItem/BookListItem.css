@@ -1,0 +1,16 @@
+.book-list-item {
+  /*  background-color: #d9dfe2;*/
+    padding: 5px;
+}
+
+.book-list-item .book-title {
+    font-weight: 600;
+}
+
+.book-list-item .img-icon {
+    height: 150px;
+}
+
+.book-list-item .book-info {
+    display: inline-block;
+}
